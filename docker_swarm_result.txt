@@ -1,0 +1,11 @@
+ID             NAME            IMAGE            NODE             DESIRED STATE   CURRENT STATE                  ERROR     PORTS
+qthxsquiitfu   my-code.1       my-code:latest   docker-desktop   Ready           Ready 1 second ago                       
+4lffpbz8tdv8    \_ my-code.1   my-code:latest   docker-desktop   Shutdown        Complete 2 seconds ago                   
+m42lzudv71k4    \_ my-code.1   my-code:latest   docker-desktop   Shutdown        Complete 7 seconds ago                   
+h17863f4tx44    \_ my-code.1   my-code:latest   docker-desktop   Shutdown        Complete 12 seconds ago                  
+fifkhtn58lgk    \_ my-code.1   my-code:latest   docker-desktop   Shutdown        Complete 18 seconds ago                  
+3ns2ubr3o60p   my-code.2       my-code:latest   docker-desktop   Ready           Ready less than a second ago             
+lkbasb2pshc1    \_ my-code.2   my-code:latest   docker-desktop   Shutdown        Complete 1 second ago                    
+oma8yrblg9fx    \_ my-code.2   my-code:latest   docker-desktop   Shutdown        Complete 6 seconds ago                   
+6auuzaumwl1l    \_ my-code.2   my-code:latest   docker-desktop   Shutdown        Complete 12 seconds ago                  
+z3u7t3qexuit    \_ my-code.2   my-code:latest   docker-desktop   Shutdown        Complete 17 seconds ago                  
